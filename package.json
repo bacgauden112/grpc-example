@@ -1,0 +1,22 @@
+{
+  "name": "demo-grpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.5",
+    "dotenv": "^8.2.0",
+    "grpc": "^1.24.3",
+    "lodash": "^4.17.20",
+    "microtime": "^3.0.0",
+    "mongoose": "^5.10.5",
+    "uuid": "^8.3.0"
+  }
+}
